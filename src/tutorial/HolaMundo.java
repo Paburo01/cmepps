@@ -7,6 +7,7 @@ public class HolaMundo {
 		String name="Pablo";
 		System.out.println("BIENVENIDO, "+name);
 		int i = 0;
+		System.out.println("Bye");
 		for (;;) {
 			System.out.println(i);
 			i++;
